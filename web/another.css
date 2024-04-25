@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+
+    color:red;
+    background-color:beige;
+    background-size: cover;
+    border-radius: 1px8;
+}
+H2{
+    color: blue;
+    
+    margin-left: 80px;
+    margin-top: -30px;
+    animation-name: inherit;
+}
+
+html{
+    background-image: url("https://images-na.ssl-images-amazon.com/images/I/81Pm4mSAZ6L.png");    
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+
